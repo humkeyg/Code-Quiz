@@ -1,5 +1,4 @@
-# Week4HW
-Code Quiz
+# Code Quiz
 
 Link to quiz: https://humkeyg.github.io/Week4HW/
 
